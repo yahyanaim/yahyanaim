@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyanaimi&layout=compact&title_color=fff&text_color=fff&bg_color=0D1117" height="160px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyanaim&layout=compact&title_color=fff&text_color=fff&bg_color=0D1117" height="160px" />
 <img src="https://github-readme-stats.vercel.app/api?username=yahyanaim&title_color=fff&text_color=fff&icon_color=F7DF1E&bg_color=0D1117&show_icons=true" height="160px"/>
 </p>
 
