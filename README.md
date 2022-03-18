@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 -->
 
 
-- :telescope: I’m currently working on JAVA (Spring boot) , php (Laravel) and Javascript (Angular)
+- :telescope: I’m currently working on Node js, React Js, Express Js, MongoDb , php (Laravel) and Javascript 
 - :seedling: I’m currently learning everything I can find
 - :mailbox: How to reach me: [Twitter](https://twitter.com/yahya_naim), [LinkedIn](https://www.linkedin.com/in/yahia-naim/)
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohssineElAttari&layout=compact&title_color=fff&text_color=fff&bg_color=0D1117" height="160px" />
-<img src="https://github-readme-stats.vercel.app/api?username=MohssineElAttari&title_color=fff&text_color=fff&icon_color=F7DF1E&bg_color=0D1117&show_icons=true" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyanaimi&layout=compact&title_color=fff&text_color=fff&bg_color=0D1117" height="160px" />
+<img src="https://github-readme-stats.vercel.app/api?username=yahyanaim&title_color=fff&text_color=fff&icon_color=F7DF1E&bg_color=0D1117&show_icons=true" height="160px"/>
 </p>
 
