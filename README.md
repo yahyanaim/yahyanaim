@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - :telescope: I’m currently working on Node js, React Js, Express Js, MongoDb , php (Laravel) and Javascript 
 - :seedling: I’m currently learning everything I can find
-- :mailbox: How to reach me: [Twitter](https://twitter.com/yahya_naim), [LinkedIn](https://www.linkedin.com/in/yahia-naim/)
+- :mailbox: How to reach me: [Twitter](https://x.com/yahya_naim), [LinkedIn](https://www.linkedin.com/in/yahia-naim/)
 
 ### 💻 Tech & Tools Preference
 
